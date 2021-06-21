@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "interviewtask"
+  "defaultProject": "interviewtask",
+  "cli": {
+    "analytics": "2604f77d-6419-4c12-96b0-9dd2181d310e"
+  }
 }

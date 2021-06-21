@@ -1,0 +1,13 @@
+.countryName{
+    margin-left: 3px;
+}
+
+::ng-deep .ng-select.ng-select-multiple .ng-select-container .ng-value-container .ng-placeholder {
+    font-size: 18px !important;
+    color: black !important;
+}
+
+.custom-select{
+    width: 60%;
+    margin: 0 auto;
+}
